@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1250885193}
   m_Layer: 6
-  m_Name: MoveDestination
+  m_Name: MoveDestinationn
   m_TagString: Untagged
   m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -25,7 +25,7 @@ Transform:
   m_GameObject: {fileID: 1250885192}
   serializedVersion: 2
   m_LocalRotation: {x: 0.0024420035, y: 0.0009481643, z: 0.3619464, w: 0.93219525}
-  m_LocalPosition: {x: 9.3, y: -6.1, z: -0.1}
+  m_LocalPosition: {x: 16.1, y: 0.12, z: -0.1}
   m_LocalScale: {x: 0.45128533, y: 1.3245757, z: 1.1326}
   m_ConstrainProportionsScale: 0
   m_Children: []
